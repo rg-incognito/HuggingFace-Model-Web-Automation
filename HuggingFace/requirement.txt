@@ -1,0 +1,7 @@
+transformers
+selenium
+webdriver-manager
+opencv-python
+numpy
+Pillow
+requests
